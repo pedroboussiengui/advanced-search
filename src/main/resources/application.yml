@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: myuser
+      password: mypass
+      database: moveis_database
+      port: 27017
+      host: localhost
